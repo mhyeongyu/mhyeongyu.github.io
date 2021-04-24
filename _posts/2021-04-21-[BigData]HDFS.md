@@ -1,4 +1,4 @@
-HDFS (Hadoop Ditributed File System)
+HDFS
 ========================================
 
 <br>

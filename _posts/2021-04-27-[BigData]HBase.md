@@ -8,6 +8,8 @@ HBase
 
 ![hbase](https://user-images.githubusercontent.com/82218035/116166218-80739e00-a738-11eb-84c8-1d4c3a207f9f.PNG)
 
+![hbase5](https://user-images.githubusercontent.com/82218035/116183928-d147be80-a759-11eb-82c6-c9701b69aa97.PNG)
+
 
 HBase는 Hadoop 기반의 Column-Oriented NoSQL DB로 Hadoop의 분산파일시스템인 HDFS 위에서 동작하여 HDFS의 가용성과 확장성을 그대로 물려받았다. 데이터는 Key-Value 형식으로 단순하게 구조화되어있으며, HRegion을 통해 수평확장이 가능해 데이터의 양이 증가하면 Node를 추가해주면 된다.  
 
